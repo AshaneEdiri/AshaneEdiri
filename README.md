@@ -46,8 +46,10 @@ With a strong foundation in software engineering and proven industry experience,
 
 ## 📫 Let's Connect  
 
-- 💼 **LinkedIn**: [linkedin.com/in/ashane-edirisinghe](https://www.linkedin.com/in/ashane-edirisinghe)  
-- 🐙 **GitLab**: [gitlab.com/Ueidias](https://gitlab.com/Ueidias)  
+- **LinkedIn**: [linkedin.com/in/ashane-edirisinghe](https://www.linkedin.com/in/ashane-edirisinghe)  
+- **GitLab**: [gitlab.com/Ueidias](https://gitlab.com/Ueidias)
+- **Tech Blog**: [https://a2edevs.wordpress.com/](https://a2edevs.wordpress.com/)
+- **Stack Overflow**: [https://stackoverflow.com/users/9462419/ashane-e](https://stackoverflow.com/users/9462419/ashane-e)
 
 ---
 
